@@ -4,6 +4,12 @@
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.28+-red.svg)](https://streamlit.io/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+## 🌐 Demo Site
+
+👉 **[點擊這裡體驗線上 Demo](https://aiothw5q1-pwbdgcqrxsjwxpzxhqvegq.streamlit.app/)**
+
+---
+
 ## 📖 專案簡介
 
 本專案實作一套 **可解釋的 AI / Human 文章偵測器**，能夠判斷輸入文章是否由 AI 生成，並提供詳細的分析結果與視覺化呈現。
