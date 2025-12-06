@@ -62,7 +62,7 @@ User Input (Text / CSV)
 ## 📁 專案結構
 
 ```
-ai_detector/
+AIOT_HW5_Q1/
 ├── 📄 app.py                    # Streamlit 主程式
 ├── 📄 requirements.txt          # Python 依賴套件
 ├── 📄 README.md                 # 專案說明文件
@@ -95,7 +95,7 @@ ai_detector/
 ```bash
 # 1. 克隆專案
 git clone https://github.com/Charles8745/AIOT_HW5_Q1.git
-cd AIOT_HW5_Q1/ai_detector
+cd AIOT_HW5_Q1
 
 # 2. 建立虛擬環境
 python -m venv venv
